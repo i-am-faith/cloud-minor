@@ -5,6 +5,9 @@ username or email - sourin.mukherjee2580@gmail.com
 password - Kiit123#
 MFA Code - Call me anytime for MFA Code
 
+Creation - 
+I have already created S3 bucket and dynamoDB table in my account.
+
 
 ************************************************************
 Changes made : -
