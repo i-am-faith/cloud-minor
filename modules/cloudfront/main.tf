@@ -1,4 +1,4 @@
-# Get the certificate from AWS ACM
+# Get the certificate from AWS ACM (Soumik)
 data "aws_acm_certificate" "issued" {
   domain   = var.certificate_domain_name
   statuses = ["ISSUED"]

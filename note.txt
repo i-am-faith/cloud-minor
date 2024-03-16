@@ -1,0 +1,12 @@
+I have covered till (34:10)
+
+AWS Account Password - 
+username or email - sourin.mukherjee2580@gmail.com
+password - Kiit123#
+MFA Code - Call me anytime for MFA Code
+
+
+************************************************************
+Changes made : -
+
+added project description in "variables.tf" file

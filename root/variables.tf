@@ -1,5 +1,8 @@
 variable region {}
-variable project_name {}
+variable project_name {
+    description = "Cloud Minor"
+}
+//change description from video (14:12)
 variable vpc_cidr {}       
 variable pub_sub_1a_cidr {}
 variable pub_sub_2b_cidr {}
